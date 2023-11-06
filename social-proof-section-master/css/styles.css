@@ -53,5 +53,11 @@ img, .star-info {
     padding-right: 30px;
 }
 
+.buyer-image {
+    border-radius: 50%;
+    float: left;
+    padding-left: 30px;
+}
+
 
 
