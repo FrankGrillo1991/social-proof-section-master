@@ -18,3 +18,8 @@ h4 {
     padding: 10px;
 }
 
+.star-container:nth-of-type(1) {
+    height: 30px;
+    width: 70px;
+    background-color: hsl(303, 10%, 53%);
+}
