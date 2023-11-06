@@ -33,7 +33,7 @@ img, .star-info {
 }
 
 .buyer-box {
-    display: inline-block;
+    display: flex
     padding: 10px;
 }
 
@@ -46,7 +46,6 @@ img, .star-info {
     padding: 10px;
     margin: auto;
     padding-bottom: 60px;
-
 }
 
 .name {
