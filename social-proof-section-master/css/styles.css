@@ -3,3 +3,8 @@ body {
     margin: 8px;
     font-family: 'League Spartan', sans-serif;
 }
+
+h1 {
+    font-size: 40px;
+    color: hsl(303, 10%, 53%);
+}
