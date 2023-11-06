@@ -15,7 +15,7 @@ h4 {
 
 .star-container {
     display: block;
-    float: right;
+    align-items: right;
     padding: 10px;
 }
 
