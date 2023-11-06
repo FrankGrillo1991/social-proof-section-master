@@ -37,5 +37,11 @@ img, .star-info {
     padding: 10px;
 }
 
+.buyer-container {
+    display: inline-block;
+    background-color:  hsl(303, 10%, 53%);
+    
+}
+
 
 
