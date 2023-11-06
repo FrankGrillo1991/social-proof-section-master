@@ -40,6 +40,8 @@ img, .star-info {
 .buyer-container {
     display: inline-block;
     background-color:  hsl(303, 10%, 53%);
+    width: 100%;
+    height: 100px;
 
 }
 
