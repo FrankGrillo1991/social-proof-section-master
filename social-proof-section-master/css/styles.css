@@ -40,7 +40,15 @@ img, .star-info {
 .buyer-container {
     display: inline-block;
     background-color:  hsl(303, 10%, 53%);
-    
+
+}
+
+.name {
+    text-align: right;
+}
+
+.buyer {
+    text-align: right;
 }
 
 
