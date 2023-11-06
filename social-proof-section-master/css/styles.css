@@ -12,3 +12,7 @@ h1 {
 h4 {
     color: hsl(303, 10%, 53%);
 }
+
+.star-container {
+    float: right;
+}
