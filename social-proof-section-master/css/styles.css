@@ -38,7 +38,7 @@ img, .star-info {
 }
 
 .buyer-container {
-    display: inline-block;
+    flex-direction: row;
     background-color:  hsl(303, 10%, 53%);
     width: 50%;
     height: 350px;
