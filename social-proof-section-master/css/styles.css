@@ -24,4 +24,8 @@ h4 {
     height: 30px;
 }
 
+img, .star-info {
+    display: inline-block;
+}
+
 
