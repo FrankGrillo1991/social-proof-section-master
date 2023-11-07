@@ -62,7 +62,6 @@ img, .star-info {
 }
 
 .buyer {
-    display: inline-block;
     text-align: center;
     padding-left: 90px;
 }
@@ -70,7 +69,7 @@ img, .star-info {
 .buyer-image {
     margin-top: 100px;
     border-radius: 50%;
-    padding: 180px;
+    padding: 30px;
 }
 
 .info {
