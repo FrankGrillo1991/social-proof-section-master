@@ -63,6 +63,7 @@ img, .star-info {
 
 .buyer-image {
     margin-top: 100px;
+    margin-bottom: 100px;
     border-radius: 50%;
     padding: 30px;
 }
