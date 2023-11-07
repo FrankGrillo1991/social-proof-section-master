@@ -63,7 +63,7 @@ img, .star-info {
 }
 
 .buyer {
-    display: inline-block;
+    display: flex;
     text-align: center;
     padding-left: 90px;
 }
