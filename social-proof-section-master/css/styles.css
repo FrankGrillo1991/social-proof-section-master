@@ -74,7 +74,7 @@ img, .star-info {
     margin-bottom: 10px;
     margin-top: 10px;
     font-weight: 700;
-    color: hsl(333, 80%, 67%);
+    color:  hsl(0, 0%, 100%);
 }
 
 .buyer-image {
