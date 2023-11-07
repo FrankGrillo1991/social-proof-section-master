@@ -71,7 +71,6 @@ img, .star-info {
 }
 
 .buyer-image {
-    display: flex;
     justify-content: center;
     margin-top: 100px;
     border-radius: 50%;
