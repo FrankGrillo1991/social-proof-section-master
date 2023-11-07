@@ -55,6 +55,10 @@ img, .star-info {
     margin-bottom: 100px;
 }
 
+.buyer-first {
+    display: inline-block;
+}
+
 .name {
     display: inline-block;
     text-align: center;
