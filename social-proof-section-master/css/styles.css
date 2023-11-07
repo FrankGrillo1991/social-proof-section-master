@@ -81,7 +81,7 @@ img, .star-info {
 .buyer-image,
 .name,
 .buyer {
-    display: inline-block;
+    display: block;
 }
 
 
