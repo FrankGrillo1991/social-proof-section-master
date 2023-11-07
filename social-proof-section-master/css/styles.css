@@ -57,7 +57,7 @@ img, .star-info {
 
 .buyer-first {
     display: inline-block;
-    align-items: center;
+    text-align: center;
 }
 
 .name {
