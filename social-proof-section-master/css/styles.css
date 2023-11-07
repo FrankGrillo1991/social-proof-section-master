@@ -59,13 +59,13 @@ img, .star-info {
 .name {
     display: inline-block;
     text-align: justify;
-    padding-left: 70px;
+    padding-left: 30px;
 }
 
 .buyer {
     display: inline-block;
     text-align: center;
-    padding-left: 30px;
+    padding-left: 70px;
 }
 
 .buyer-image {
