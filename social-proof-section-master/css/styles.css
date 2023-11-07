@@ -52,12 +52,12 @@ img, .star-info {
 }
 
 .name {
-    text-align: right;
+    text-align: center;
     padding-right: 50px;
 }
 
 .buyer {
-    text-align: right;
+    text-align: center;
     padding-right: 30px;
 }
 
