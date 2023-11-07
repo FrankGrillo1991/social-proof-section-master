@@ -57,17 +57,20 @@ img, .star-info {
 
 
 .name {
-    display: inline-block;
-    text-align: justify;
-    padding-left: 70px;
+    display: flex;
+    justify-content: center;
 }
 
 .buyer {
-    text-align: justify;
-    padding-left: 30px;
+    display: flex;
+    justify-content: center;
+
 }
 
 .buyer-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-top: 100px;
     border-radius: 50%;
     padding: 30px;
