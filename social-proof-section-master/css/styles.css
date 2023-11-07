@@ -33,6 +33,10 @@ img, .star-info {
     display: inline-block;
 }
 
+.star-info {
+    padding-left: 10px;
+}
+
 .buyer-box {
     display: flex;
     padding: 10px;
