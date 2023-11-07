@@ -7,11 +7,13 @@ body {
 h1 {
     font-size: 40px;
     color: hsl(303, 10%, 53%);
+    font-weight: 700;
 }
 
 h4 {
     color: hsl(303, 10%, 53%);
     margin-bottom: 100px;
+    font-weight: 400;
 }
 
 .star-box {
@@ -20,7 +22,7 @@ h4 {
 }
 
 .star-container {
-    background-color: hsl(333, 80%, 67%);
+    background-color: hsl(300, 24%, 96%);
     width: 100%;
     height: 50px;
     margin-bottom: 10px;
@@ -35,6 +37,7 @@ img, .star-info {
 
 .star-info {
     padding-left: 10px;
+    font-weight: 700;
 }
 
 .buyer-box {
@@ -44,7 +47,7 @@ img, .star-info {
 
 .buyer-container {
     flex-direction: row;
-    background-color:  hsl(303, 10%, 53%);
+    background-color: hsl(303, 10%, 53%);
     width: 50%;
     height: 400px;
     border-radius: 10px;
@@ -60,6 +63,8 @@ img, .star-info {
     display: inline-block;
     text-align: justify;
     padding-left: 5px;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%)
 }
 
 .buyer {
@@ -68,6 +73,8 @@ img, .star-info {
     padding-left: 140px;
     margin-bottom: 10px;
     margin-top: 10px;
+    font-weight: 400;
+    color: hsl(333, 80%, 67%);
 }
 
 .buyer-image {
@@ -80,6 +87,7 @@ img, .star-info {
 .info {
     text-align: center;
     margin-bottom: 100px;
+    color: hsl(0, 0%, 100%);
 }
 
 
