@@ -79,7 +79,7 @@ img, .star-info {
 .info {
     display: flex;
     justify-content: center;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
 }
 
 
