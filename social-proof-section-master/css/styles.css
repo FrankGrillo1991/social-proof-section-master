@@ -54,6 +54,7 @@ img, .star-info {
 .name {
     text-align: right;
     padding-right: 50px;
+    margin-bottom: 100px;
 }
 
 .buyer {
