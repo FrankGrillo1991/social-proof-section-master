@@ -5,7 +5,7 @@
 
 body {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: auto;
@@ -26,11 +26,15 @@ p {
 }
 
 .star-box {
+    display: flex;
+    flex-direction: row;
     width: 50%;
     height: 50vh;
 }
 
 .star-container {
+    display: flex;
+    flex-direction: row;
     width: 80%;
     height: 30px;
     background-color: hsl(333, 80%, 67%);
