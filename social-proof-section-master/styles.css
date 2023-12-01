@@ -32,6 +32,11 @@ p {
     height: 60px;
 }
 
+.star {
+    display: flex;
+    justify-content: space-between;
+}
+
 .star-container:nth-of-type(1) {
     margin-right: 60px;
 }
