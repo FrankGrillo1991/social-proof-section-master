@@ -43,7 +43,7 @@ p {
 
 .buyer-box {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     margin: auto;
 }
 
