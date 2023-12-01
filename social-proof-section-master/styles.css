@@ -20,3 +20,19 @@ p {
     font-size: 1rem;
 }
 
+.header {
+    width: 50%;
+    height: 50vh;
+}
+
+.star-box {
+    width: 50%;
+    height: 50vh;
+}
+
+.star-container {
+    width: 80%;
+    height: 30px;
+    background-color:n hsl(333, 80%, 67%);
+    border-radius: 10px;
+}
