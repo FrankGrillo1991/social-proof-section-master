@@ -109,5 +109,8 @@ p {
 }
 
 @media and (max-width: 375px) {
-        grid-template-columns: 1fr;   
+    .grid-container{ 
+    display: grid;
+    grid-template-columns: 1fr;   
+}
 }
