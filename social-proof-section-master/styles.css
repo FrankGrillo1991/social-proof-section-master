@@ -29,7 +29,8 @@ p {
     background-color: hsl(333, 80%, 67%);
     border-radius: 10px;
     margin-bottom: 15px;
-    height: 40px;
+    height: 60px;
+    width: 80%;
 }
 
 .star-container:nth-of-type(1) {
