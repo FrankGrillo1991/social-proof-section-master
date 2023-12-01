@@ -20,10 +20,12 @@ body {
 
 h1 {
     font-size: 3rem;
+    color: hsl(303, 43%, 53%);
 }
 
 p {
     font-size: 1rem;
+    color: hsl(303, 43%, 53%);
 }
 
 .star-container {
@@ -43,6 +45,7 @@ p {
     display: inline;
     margin-left: 10px;
     align: right;
+    color: hsl(303, 43%, 53%);
 }
 
 .star-container:nth-of-type(1) {
@@ -87,13 +90,16 @@ p {
 .name {
     display: inline;
     text-align: center;
+    color: hsl(0, 0%, 100%);
 }
 
 .buyer {
     text-align: center;
+    color: hsl(333, 80%, 67%);
 }
 
 .info {
     text-align: center;
     margin-bottom: 15px;
+    color: hsl(0, 0%, 100%);
 }
