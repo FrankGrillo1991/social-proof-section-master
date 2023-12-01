@@ -72,11 +72,11 @@ p {
 }
 
 .buyer-container:nth-of-type(2) {
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .buyer-container:nth-of-type(3) {
-    margin-top: 40px;
+    margin-top: 60px;
 }
 
 .buyer-image {
