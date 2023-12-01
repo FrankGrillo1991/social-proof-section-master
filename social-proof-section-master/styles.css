@@ -33,5 +33,6 @@ p {
 }
 
 .buyer-box {
-    grid-column: 1 / span 3;
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
