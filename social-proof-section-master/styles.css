@@ -43,6 +43,10 @@ p {
     margin: auto;
 }
 
+.buyer-image {
+    border-radius: 50%;
+}
+
 .name {
     text-align: center;
 }
