@@ -31,3 +31,7 @@ p {
     margin-bottom: 15px;
     height: 40px;
 }
+
+.star-box {
+    grid-column: 1 / span 3;
+}
