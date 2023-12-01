@@ -42,5 +42,13 @@ p {
 }
 
 .buyer-box {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.buyer-container {
+    display: flex;
+    flex-direction: row;
     margin: auto;
 }
