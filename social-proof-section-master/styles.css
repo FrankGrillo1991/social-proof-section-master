@@ -78,7 +78,7 @@ p {
 
 .name {
     display: inline;
-    text-align: center;
+    align: right;
 }
 
 .buyer {
