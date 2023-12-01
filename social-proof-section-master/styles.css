@@ -46,17 +46,14 @@ p {
 }
 
 .star-container:nth-of-type(1) {
-    width: 80%;
     margin-right: 60px;
 }
 
 .star-container:nth-of-type(2) {
-    width: 80%;
     margin-right: 40px;
 }
 
 .star-container:nth-of-type(3) {
-    width: 80%;
     margin-right: 20px;
 }
 
