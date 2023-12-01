@@ -68,10 +68,12 @@ p {
 }
 
 .buyer-image {
+    display: inline;
     border-radius: 50%;
 }
 
 .name {
+    display: inline;
     text-align: center;
 }
 
