@@ -34,6 +34,7 @@ p {
 
 .star {
     display: inline;
+    align-items: center;
 }
 
 .star-info {
