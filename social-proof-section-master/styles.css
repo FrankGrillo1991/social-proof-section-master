@@ -36,6 +36,7 @@ p {
     display: flex;
     width: 80%;
     height: 40px;
+    margin-bottom: 15px;
     background-color: hsl(333, 80%, 67%);
     border-radius: 10px;
 }
