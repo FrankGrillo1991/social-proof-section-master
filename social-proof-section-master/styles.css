@@ -41,6 +41,7 @@ p {
     background-color: hsl(303, 10%, 53%);
     border-radius: 15px;
     margin: auto;
+    padding: 10px;
 }
 
 .buyer-image {
