@@ -27,7 +27,7 @@ p {
 
 .star-box {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: 50%;
     height: 50vh;
 }
