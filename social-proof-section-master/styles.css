@@ -29,4 +29,5 @@ p {
     background-color: hsl(333, 80%, 67%);
     border-radius: 10px;
     margin-bottom: 15px;
+    height: 40px;
 }
