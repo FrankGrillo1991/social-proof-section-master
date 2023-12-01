@@ -40,4 +40,5 @@ p {
 .buyer-container {
     background-color: hsl(303, 10%, 53%);
     border-radius: 15px;
+    text-align: center;
 }
