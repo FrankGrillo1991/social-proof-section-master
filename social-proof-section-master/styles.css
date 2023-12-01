@@ -34,17 +34,14 @@ p {
 
 .star-container:nth-of-type(1) {
     margin-right: 60px;
-    padding-left: 60px;
 }
 
 .star-container:nth-of-type(2) {
     margin-right: 40px;
-    padding-left: 40px;
 }
 
 .star-container:nth-of-type(3) {
     margin-right: 20px;
-    padding-left: 20px;
 }
 
 .buyer-box {
