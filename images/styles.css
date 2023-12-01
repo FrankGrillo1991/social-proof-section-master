@@ -107,31 +107,3 @@ p {
     margin-bottom: 15px;
     color: hsl(0, 0%, 100%);
 }
-
-@media and (max-width: 375px) {
-
-    .grid-container {
-        display: flex;
-        flex-direction: column;
-        margin-top: 30px;
-        padding: 10px;
-    }
-
-    .star-container {
-        display: flex;
-        flex-direction: column;
-        background-color: hsl(333, 80%, 67%);
-        border-radius: 10px;
-        margin-bottom: 15px;
-        padding-top: 20px;
-        height: 60px;
-    }
-
-    .buyer-box {
-        display: flex;
-        flex-direction: column;
-        margin-top: 30px;
-        margin-bottom: 10px;
-    }
-    
-}
