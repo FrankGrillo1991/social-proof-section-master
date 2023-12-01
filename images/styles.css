@@ -108,7 +108,7 @@ p {
     color: hsl(0, 0%, 100%);
 }
 
-@media screen and (max-width: 375px{
+@media screen and (max-width: 375px) {
     .grid-container {
         display: grid;
         grid-template-columns: repeat(1,1fr);
