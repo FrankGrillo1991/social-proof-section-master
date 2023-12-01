@@ -32,7 +32,7 @@ p {
     height: 40px;
 }
 
-.star-container:nth-last-of-type(1) {
+.star-container:nth-of-type(1) {
     margin-left: 30px;
 }
 
