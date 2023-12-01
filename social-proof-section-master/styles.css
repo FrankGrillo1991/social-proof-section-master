@@ -40,6 +40,8 @@ p {
 .buyer-container {
     background-color: hsl(303, 10%, 53%);
     border-radius: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .name {
