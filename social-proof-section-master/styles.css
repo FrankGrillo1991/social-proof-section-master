@@ -39,6 +39,7 @@ p {
 
 .star-info {
     display: inline;
+    margin-left: 10px;
     align: right;
 }
 
