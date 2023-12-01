@@ -34,7 +34,7 @@ p {
 
 .star-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: 80%;
     height: 30px;
     background-color: hsl(333, 80%, 67%);
