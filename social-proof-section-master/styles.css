@@ -40,5 +40,16 @@ p {
 .buyer-container {
     background-color: hsl(303, 10%, 53%);
     border-radius: 15px;
+}
+
+.name {
+    text-align: center;
+}
+
+.buyer {
+    text-align: center;
+}
+
+.buyer-info {
     text-align: center;
 }
