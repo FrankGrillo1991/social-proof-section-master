@@ -109,21 +109,5 @@ p {
 }
 
 @media and (max-width: 375px) {
-
-    .grid-container {
-        display: grid;
-        grid-template-columns: auto;
-        margin-top: 30px;
-        gap: 10px;
-        padding: 10px;
-    }
-
-    .buyer-box {
-        display: grid;
-        grid-template-columns: auto;
-        margin-top: 30px;
-        margin-bottom: 10px;
-    }
-    
-    
+        grid-template-columns: 1fr;   
 }
