@@ -34,10 +34,12 @@ p {
 
 .star {
     display: inline;
+    margin: auto;
 }
 
 .star-info {
     display: inline;
+    margin: auto;
     align: right;
 }
 
