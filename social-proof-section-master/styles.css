@@ -40,7 +40,5 @@ p {
 }
 
 .buyer-box {
-    display: flex;
-    align-items: center;
     margin: auto;
 }
